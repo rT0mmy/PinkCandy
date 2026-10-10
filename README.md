@@ -1,10 +1,10 @@
-# PinkCandy - 粉糖插件[EXILED]
+# PinkCandy - Pink Candy Plugin [EXILED]
 <br>  
 
-## 介绍📕📣📣📣
-   PinkCandy-粉糖[EXILED]<br>
-  该插件使玩家在交互SCP-330时可以拿到粉糖。
-  粉糖刷新概率可以由配置文件设置！📣
+## Introduction📕📣📣📣
+   PinkCandy - Pink Candy [EXILED]<br>
+  This plugin lets players get pink candy when interacting with SCP-330.
+  The pink candy spawn chance can be set in the config file!📣
 
-## 使用🖊
-  将PinkCandy.dll 放在 EXILED\Plugins\ 目录内,然后就可以使用该插件了。
+## Usage🖊
+  Put PinkCandy.dll in the EXILED\Plugins\ directory, and the plugin is ready to use.

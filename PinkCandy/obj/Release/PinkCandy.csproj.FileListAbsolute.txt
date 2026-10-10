@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\PinkCandy.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\PinkCandy.pdb
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Assembly-CSharp.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Exiled.API.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Exiled.Events.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\0Harmony.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Exiled.Loader.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Exiled.Permissions.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\SemanticVersioning.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\bin\Release\Mono.Posix.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\obj\Release\PinkCandy.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\obj\Release\PinkCandy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\obj\Release\PinkCandy.csproj.Up2Date
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\obj\Release\PinkCandy.dll
+C:\Users\Admin\Documents\GitHub\PinkCandy\PinkCandy\obj\Release\PinkCandy.pdb
